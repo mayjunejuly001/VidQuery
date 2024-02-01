@@ -1,0 +1,47 @@
+Introduction of the course
+Welcome to the ServiceNow System Administration training. In this training you will learn everything you need to know to become a ServiceNow System Administrator. This training is designed to cover all the topics required to pass the ServiceNow System Administrator exam. 
+
+Platform Overview and Architecture 
+In this section, you will learn about the ServiceNow platform, its architecture, and the components that make up the platform. You will also learn about the different ServiceNow applications and how they are used to create powerful solutions. 
+
+User Interface and Branding 
+In this section, you will learn about the ServiceNow user interface and how to customize it to meet your needs. You will also learn about the different branding options available and how to use them to create a unique look and feel for your ServiceNow instance. 
+
+List & Filters and Forms 
+In this section, you will learn about the different list and filter options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different form options available and how to use them to create custom forms. 
+
+Task Management 
+In this section, you will learn about the different task management features available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different task automation options available and how to use them to automate tasks. 
+
+Notifications 
+In this section, you will learn about the different notification options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different notification automation options available and how to use them to automate notifications. 
+
+Knowledge Management 
+In this section, you will learn about the different knowledge management features available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different knowledge automation options available and how to use them to automate knowledge. 
+
+Service Catalog 
+In this section, you will learn about the different service catalog features available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different service catalog automation options available and how to use them to automate service catalogs. 
+
+Tables and Fields 
+In this section, you will learn about the different table and field options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different table and field automation options available and how to use them to automate tables and fields. 
+
+Access Control List 
+In this section, you will learn about the different access control list options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different access control list automation options available and how to use them to automate access control lists. 
+
+Data Import 
+In this section, you will learn about the different data import options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different data import automation options available and how to use them to automate data imports. 
+
+CMDB 
+In this section, you will learn about the different CMDB features available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different CMDB automation options available and how to use them to automate CMDBs. 
+
+Integration 
+In this section, you will learn about the different integration options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different integration automation options available and how to use them to automate integrations. 
+
+Update Sets 
+In this section, you will learn about the different update set options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different update set automation options available and how to use them to automate update sets. 
+
+Events 
+In this section, you will learn about the different event options available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different event automation options available and how to use them to automate events. 
+
+Platform Stats 
+In this section, you will learn about the different platform stats available in ServiceNow and how to use them to create powerful solutions. You will also learn about the different platform stats automation options available and how to use them to automate platform stats.
